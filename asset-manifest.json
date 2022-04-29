@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mikayieee/portfolio/static/css/main.3327ac1c.css",
-    "main.js": "/mikayieee/portfolio/static/js/main.f91210a9.js",
-    "static/media/picture.jpg": "/mikayieee/portfolio/static/media/picture.2e13859262cb9e614b72.jpg",
-    "static/media/soft.png": "/mikayieee/portfolio/static/media/soft.9361c64bbd71c9af7aa4.png",
-    "static/media/tools.png": "/mikayieee/portfolio/static/media/tools.781898660768dcfb696f.png",
-    "static/media/address.png": "/mikayieee/portfolio/static/media/address.8210970acff9062a268b.png",
-    "static/media/facebook.png": "/mikayieee/portfolio/static/media/facebook.ec5c730cfe163b1e5ed8.png",
-    "static/media/contact.png": "/mikayieee/portfolio/static/media/contact.85b72314fa30bc76799a.png",
-    "static/media/programming.png": "/mikayieee/portfolio/static/media/programming.299bdfd764d19aecb8d9.png",
-    "index.html": "/mikayieee/portfolio/index.html",
-    "main.3327ac1c.css.map": "/mikayieee/portfolio/static/css/main.3327ac1c.css.map",
-    "main.f91210a9.js.map": "/mikayieee/portfolio/static/js/main.f91210a9.js.map"
+    "main.css": "/portfolio/static/css/main.3327ac1c.css",
+    "main.js": "/portfolio/static/js/main.ec3ea107.js",
+    "static/media/picture.jpg": "/portfolio/static/media/picture.2e13859262cb9e614b72.jpg",
+    "static/media/soft.png": "/portfolio/static/media/soft.9361c64bbd71c9af7aa4.png",
+    "static/media/tools.png": "/portfolio/static/media/tools.781898660768dcfb696f.png",
+    "static/media/address.png": "/portfolio/static/media/address.8210970acff9062a268b.png",
+    "static/media/facebook.png": "/portfolio/static/media/facebook.ec5c730cfe163b1e5ed8.png",
+    "static/media/contact.png": "/portfolio/static/media/contact.85b72314fa30bc76799a.png",
+    "static/media/programming.png": "/portfolio/static/media/programming.299bdfd764d19aecb8d9.png",
+    "index.html": "/portfolio/index.html",
+    "main.3327ac1c.css.map": "/portfolio/static/css/main.3327ac1c.css.map",
+    "main.ec3ea107.js.map": "/portfolio/static/js/main.ec3ea107.js.map"
   },
   "entrypoints": [
     "static/css/main.3327ac1c.css",
-    "static/js/main.f91210a9.js"
+    "static/js/main.ec3ea107.js"
   ]
 }
