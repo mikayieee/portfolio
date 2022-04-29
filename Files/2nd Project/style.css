@@ -1,0 +1,25 @@
+.nav-items {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    box-shadow: 10px;
+    background-color: #0e1111;
+    color: white;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
+.nav_logo{
+    width: 110px;
+}
+.main-div
+{
+    background-color: #232b2b;
+    color: whitesmoke;
+}
